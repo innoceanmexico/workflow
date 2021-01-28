@@ -54,3 +54,13 @@ The minimum columns used are To **Do, Doing, and Done**. Teams will have their d
 ### C ) Sprint Review
 
 At the end of the sprint, the **team invites stakeholders to a sprint review meeting where the features that were completed in the sprint are demo'd and feedback is requested**. The Product Owner keeps track of the feedback and incorporates it as needed into the product backlog.
+
+**Once the review is complete, the team (without the stakeholders) conducts a retrospective to determine what they did well that they wish to continue doing, what they struggled with, and what recommendations they have for change going forward.**
+
+### Release Planning
+
+Release Planning is also part of Scrum, and is a way to do long-term planning for a time box that consists of multiple sprints. This is often done quarterly, and the results of the quarter do not have to be a release to the customer, but may simply be an internal release to confirm system integration and validation.
+
+The entire team attends the release-planning meeting, where the Product Owner presents the features she/he would like to see completed in the quarter.
+
+![Alt text](public/release.jpg?raw=true "INNOCEAN México")
