@@ -59,7 +59,7 @@ At the end of the sprint, the **team invites stakeholders to a sprint review mee
 
 ### Release Planning
 
-Release Planning is also part of Scrum, and is a way to do long-term planning for a time box that consists of multiple sprints. This is often done quarterly, and the results of the quarter do not have to be a release to the customer, but may simply be an internal release to confirm system integration and validation.
+Release Planning is also part of Scrum, and **is a way to do long-term planning for a time box that consists of multiple sprints**. This is often done quarterly, and the results of the quarter do not have to be a release to the customer, but may simply be an internal release to confirm system integration and validation.
 
 The entire team attends the release-planning meeting, where the Product Owner presents the features she/he would like to see completed in the quarter.
 
