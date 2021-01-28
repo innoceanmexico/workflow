@@ -14,7 +14,7 @@ The involvement of the business throughout the project is critical as Scrum reli
 
 ## PROCESO
 
-![alt text](https://www.pmi.org/kasimage/d3e3f54a-6437-4c34-96c0-a8022b3e7a61/image01.jpg)
+![Alt text](public/scrum.jpg?raw=true "INNOCEAN México")
 
 1. The project begins with a clear vision provided by the business (BRIEFING), and a set of product features in order of importance
   - These features are part of the product backlog, which is maintained by the customer or customer representative referred to as the Product Owner.
