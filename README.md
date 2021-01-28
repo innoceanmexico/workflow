@@ -6,11 +6,11 @@ INNOCEAN Compañia global de comunicación y marketing con 18 operaciones en el 
 
 Scrum is one of the agile methodologies designed to **guide teams in the iterative and incremental delivery of a product**. Often referred to as “an agile project management framework,” its focus is on the use of an empirical process that **allows teams to respond rapidly, efficiently, and effectively to change**. 
 
-´´´Scrum on the other hand, fixes time and cost in an effort to control requirements.
+```Scrum on the other hand, fixes time and cost in an effort to control requirements.```
 
 The involvement of the business throughout the project is critical as Scrum relies heavily on the collaboration between the team and the customer or customer representative to create the right product in a lean fashion.
 
-´´´Scrum is simply one of many agile approaches to product development.
+```Scrum is simply one of many agile approaches to product development.```
 
 ## PROCESO
 

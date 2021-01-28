@@ -15,6 +15,9 @@ export default function About() {
             <a>INICIO</a>
           </Link>
           <Link href="/" as={process.env.BACKEND_URL + '/'}>
+            <a>PROCESO</a>
+          </Link>
+          <Link href="/" as={process.env.BACKEND_URL + '/'}>
             <a>SERVICIOS</a>
           </Link>
           <Link href="/" as={process.env.BACKEND_URL + '/'}>

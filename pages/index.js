@@ -7,7 +7,7 @@ export default function Home() {
     <Layout>
       <div className="entrada">
         <Link href="/about" as={process.env.BACKEND_URL + '/about'}>
-          <img src="/images/logo-blanco.png" alt="" title="" />
+          <img src="images/logo-blanco.png" alt="" title="" />
         </Link>
         <Link href="/about" as={process.env.BACKEND_URL + '/about'}>
           <h2>
