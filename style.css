@@ -4,6 +4,10 @@ body {
   padding: 0;
 }
 
+p {
+  text-align: justify;
+}
+
 .entrada {
   background-color: #f0582a;
   display: flex;
@@ -85,4 +89,36 @@ body {
 
 .about .texto h2 {
   color: #f0582a;
+}
+
+.proceso {
+  padding: 20px 40px;
+}
+
+.proceso h4 {
+  background: #000000;
+  color: #ffffff;
+  padding: 10px;
+}
+
+.proceso ul {
+  list-style: decimal;
+}
+
+.proceso ul li {
+  font-weight: bold;
+  padding: 10px;
+}
+
+.proceso ul li ul li {
+  font-weight: 100;
+}
+
+.proceso h6 {
+  background: #f0582a;
+  color: #ffffff;
+  padding: 10px;
+  font-size: 2rem;
+  padding: 10px;
+  margin: 0;
 }

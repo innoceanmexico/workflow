@@ -19,7 +19,7 @@ export default function About() {
           <Link href="/" as={process.env.BACKEND_URL + '/'}>
             <a><span class="lnr lnr-plus-circle"></span> INICIO</a>
           </Link>
-          <Link href="/" as={process.env.BACKEND_URL + '/'}>
+          <Link href="/proceso" as={process.env.BACKEND_URL + '/'}>
             <a><span class="lnr lnr-plus-circle"></span> PROCESO</a>
           </Link>
           <Link href="/" as={process.env.BACKEND_URL + '/'}>
