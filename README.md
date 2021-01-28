@@ -31,7 +31,7 @@ The involvement of the business throughout the project is critical as Scrum reli
 5. At the end of the sprint, the team demos the work they have completed to the stakeholders and gathers feedback that will affect what they work on in the next sprint.
   - This meeting is critical, as its focus is on the three pillars of Scrum: transparency, inspection, and adaptation.
 
-## The Application of Scrum
+## Aplicación del SCRUM en INNOCEAN MÉXICO
 
 Scrum is applied by following a set of ceremonies, or meetings.
 
