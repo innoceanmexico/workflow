@@ -4,7 +4,7 @@ INNOCEAN Compañia global de comunicación y marketing con 18 operaciones en el 
 
 ## AGILE SCRUM WORKFLOW de desarrollo INNOCEAN MÉXICO
 
-Scrum is one of the agile methodologies designed to guide teams in the iterative and incremental delivery of a product. Often referred to as “an agile project management framework,” its focus is on the use of an empirical process that allows teams to respond rapidly, efficiently, and effectively to change. 
+Scrum is one of the agile methodologies designed to **guide teams in the iterative and incremental delivery of a product**. Often referred to as “an agile project management framework,” its focus is on the use of an empirical process that **allows teams to respond rapidly, efficiently, and effectively to change**. 
 
 ´´´Scrum on the other hand, fixes time and cost in an effort to control requirements.
 
@@ -30,3 +30,27 @@ The involvement of the business throughout the project is critical as Scrum reli
 
 5. At the end of the sprint, the team demos the work they have completed to the stakeholders and gathers feedback that will affect what they work on in the next sprint.
   - This meeting is critical, as its focus is on the three pillars of Scrum: transparency, inspection, and adaptation.
+
+## The Application of Scrum
+
+Scrum is applied by following a set of ceremonies, or meetings.
+
+### A ) Sprint Planning Meeting
+
+The Product Owner presents the set of features he or she would like to see completed in the sprint (the “what”) then the team determines the tasks needed to implement these features (the “how”)
+
+  - Work estimates are reviewed to see if the team has the time to complete all the features requested in the sprint. If so, the team commits to the sprint. If not, the lower priority features go back into the product backlog.
+
+### B ) Tracking Progress
+
+The team begins to track its progress using highly visible information radiators. These radiators include the burndown chart and the task board.
+
+  ```**The task board** (SLACK?) is used by the team to track the progress of the tasks for each feature.```
+
+The minimum columns used are To **Do, Doing, and Done**. Teams will have their daily scrum meeting at the task board, and move items across the board when stating what they did yesterday, what they plan to do today, and what obstacles they are grappling with
+
+![Alt text](public/todos.jpg?raw=true "INNOCEAN México")
+
+### C ) Sprint Review
+
+At the end of the sprint, the **team invites stakeholders to a sprint review meeting where the features that were completed in the sprint are demo'd and feedback is requested**. The Product Owner keeps track of the feedback and incorporates it as needed into the product backlog.
