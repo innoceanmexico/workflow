@@ -1,6 +1,8 @@
 import Link from 'next/link'
 import logo from '../components/logo'
 import Layout from '../components/layout'
+import UncontrolledDiagram from '../components/charts/diagrama'
+
 
 export default function Flujos() {
   return (
@@ -17,6 +19,7 @@ export default function Flujos() {
           </span>
         </h2>
         <hr/>
+        <UncontrolledDiagram />
       </div>
     </Layout>
   )

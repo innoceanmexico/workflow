@@ -1,3 +1,4 @@
+import 'beautiful-react-diagrams/styles.css';
 import '../style.css'
 
 function MyApp({ Component, pageProps }) {
