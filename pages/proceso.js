@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import logo from '../components/logo'
 import Layout from '../components/layout'
 
 export default function Proceso() {
@@ -9,9 +10,6 @@ export default function Proceso() {
           <span class="lnr lnr-arrow-left"></span>
         </Link>
         <hr/>
-        <Link href="/about" as={process.env.BACKEND_URL + '/about'}>
-          <img src="images/logo.png" alt="innocean méxico" title="innocean méxico" />
-        </Link>
         <h2>
           <span>
             <span style={{color: '#f0582a'}}>[</span> PROPUESTA DE PROCESO DE DESARROLLO - DIGITAL DEVELOPMENT <span style={{color: '#f0582a'}}>]</span>
