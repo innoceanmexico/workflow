@@ -19,7 +19,15 @@ export default function Flujos() {
           </span>
         </h2>
         <hr/>
-        <UncontrolledDiagram />
+        <div style={{ display: 'flex', flexDirection: 'column'}}>
+          <div>
+            <UncontrolledDiagram />
+          </div>
+          <div>
+            <p>PRUEBA</p>
+          </div>
+        </div>
+        
       </div>
     </Layout>
   )

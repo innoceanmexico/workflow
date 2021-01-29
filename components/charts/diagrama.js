@@ -9,9 +9,9 @@ const initialSchema = createSchema({
     { id: 'node-4', content: 'Node 4', coordinates: [400, 200], },
   ],
   links: [
-    { input: 'node-1',  output: 'node-2' },
-    { input: 'node-1',  output: 'node-3' },
-    { input: 'node-1',  output: 'node-4' },
+    { input: 'node-1',  output: 'node-2', label: 'Link 1', readonly: true },
+    { input: 'node-1',  output: 'node-3', label: 'Link 2', readonly: true },
+    { input: 'node-1',  output: 'node-4', label: 'Link 3', readonly: true, className: 'my-custom-link-class' },
   ]
 });
 
@@ -20,7 +20,7 @@ const UncontrolledDiagram = () => {
   const [schema, { onChange }] = useSchema(initialSchema);
 
   return (
-    <div style={{ height: '22.5rem' }}>
+    <div style={{ height: '22.5rem', background: '#fff' }}>
       <Diagram schema={schema} onChange={onChange} />
     </div>
   );
