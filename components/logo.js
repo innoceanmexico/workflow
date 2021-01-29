@@ -1,14 +1,10 @@
+import Link from 'next/link'
 import Image from 'next/image'
 
-const Logo = () => {
+export default function Logo() {
   return (
-    <Image
-        src="/images/logo.png"
-        alt="INNOCEAN MÉXICO"
-        width={200}
-        height={200}
-    />
+    <Link href="/about" as={process.env.BACKEND_URL + '/about'}>
+      <img src="/images/logo.png" alt="INNOCEAN MÉXICO" title="INNOCEAN MÉXICO" />
+    </Link>
   )
 }
-
-export default Logo;
