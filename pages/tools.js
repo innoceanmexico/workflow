@@ -17,8 +17,7 @@ export default function Proceso() {
           </span>
         </h2>
         <hr/>
-        <div style={{ height: 500 }}>
-        </div>
+        <h3>HERRAMIENTAS SUGERIDAS PARA DESARROLLO DE PROYECTOS</h3>
       </div>
     </Layout>
   )

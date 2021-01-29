@@ -25,10 +25,10 @@ export default function About() {
           <Link href="/tools" as={process.env.BACKEND_URL + '/'}>
             <a><span className="lnr lnr-plus-circle"></span> TOOLS</a>
           </Link>
-          <Link href="/proceso" as={process.env.BACKEND_URL + '/'}>
+          <Link href="/" as={process.env.BACKEND_URL + '/'}>
             <a><span className="lnr lnr-plus-circle"></span> PROYECTOS</a>
           </Link>
-          <Link href="/proceso" as={process.env.BACKEND_URL + '/'}>
+          <Link href="/" as={process.env.BACKEND_URL + '/'}>
             <a><span className="lnr lnr-plus-circle"></span> DATA</a>
           </Link>
           <Link href="/" as={process.env.BACKEND_URL + '/'}>
