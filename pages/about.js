@@ -20,10 +20,13 @@ export default function About() {
             <a><span class="lnr lnr-plus-circle"></span> INICIO</a>
           </Link>
           <Link href="/proceso" as={process.env.BACKEND_URL + '/'}>
-            <a><span class="lnr lnr-plus-circle"></span> PROCESO</a>
+            <a><span class="lnr lnr-plus-circle"></span> DESARROLLO</a>
           </Link>
-          <Link href="/" as={process.env.BACKEND_URL + '/'}>
-            <a><span class="lnr lnr-plus-circle"></span> PRESUPUESTO</a>
+          <Link href="/proceso" as={process.env.BACKEND_URL + '/'}>
+            <a><span class="lnr lnr-plus-circle"></span> TOOLS</a>
+          </Link>
+          <Link href="/proceso" as={process.env.BACKEND_URL + '/'}>
+            <a><span class="lnr lnr-plus-circle"></span> DATA</a>
           </Link>
           <Link href="/" as={process.env.BACKEND_URL + '/'}>
             <a><span class="lnr lnr-plus-circle"></span> FLUJOS</a>
@@ -32,10 +35,7 @@ export default function About() {
             <a><span class="lnr lnr-plus-circle"></span> MAPAS</a>
           </Link>
           <Link href="/" as={process.env.BACKEND_URL + '/'}>
-            <a><span class="lnr lnr-plus-circle"></span> DIAGRAMAS</a>
-          </Link>
-          <Link href="/" as={process.env.BACKEND_URL + '/'}>
-            <a><span class="lnr lnr-plus-circle"></span> TIMELINE</a>
+            <a><span class="lnr lnr-plus-circle"></span> TIMELINES</a>
           </Link>
         </div>
       </div>

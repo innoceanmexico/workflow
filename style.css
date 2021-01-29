@@ -91,6 +91,10 @@ p {
   color: #f0582a;
 }
 
+.about .texto p {
+  text-align: center;
+}
+
 .proceso {
   padding: 20px 50px;
 }
