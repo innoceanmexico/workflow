@@ -20,14 +20,14 @@ export default function Proyectos() {
         <div className="marcas">
           <div>
             <hr/>
-            <h2>KIA</h2>
+            <h2><span className="lnr lnr-arrow-right"></span> KIA</h2>
             <hr/>
             <h3>URL: https://www.kia.com/</h3>
             <h3>URL: https://www.kia.com.mx/</h3>
           </div>
           <div>
             <hr/>
-            <h2>HYUNDAI</h2>
+            <h2><span className="lnr lnr-arrow-right"></span> HYUNDAI</h2>
             <hr/>
             <h3>URL: https://www.hyundai.com.mx/</h3>
           </div>
@@ -35,14 +35,14 @@ export default function Proyectos() {
         <div className="marcas">
           <div>
             <hr/>
-            <h2>COMEX</h2>
+            <h2><span className="lnr lnr-arrow-right"></span> COMEX</h2>
             <hr/>
             <h3>URL: https://www.kia.com/</h3>
             <h3>URL: https://www.kia.com.mx/</h3>
           </div>
           <div>
             <hr/>
-            <h2>CINSA</h2>
+            <h2><span className="lnr lnr-arrow-right"></span> CINSA</h2>
             <hr/>
             <h3>URL: https://www.hyundai.com.mx/</h3>
           </div>
@@ -50,13 +50,17 @@ export default function Proyectos() {
         <div className="marcas">
           <div>
             <hr/>
-            <h2>SANTA ANITA</h2>
+            <h2><span className="lnr lnr-arrow-right"></span> SANTA ANITA</h2>
             <hr/>
             <h3>URL: https://www.kia.com/</h3>
             <h3>URL: https://www.kia.com.mx/</h3>
           </div>
           <div>
             <hr/>
+            <h2><span className="lnr lnr-arrow-right"></span> AD HOC PROJECTS</h2>
+            <hr/>
+            <h3>URL: https://www.kia.com/</h3>
+            <h3>URL: https://www.kia.com.mx/</h3>
           </div>
         </div>
       </div>

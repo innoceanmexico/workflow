@@ -17,6 +17,21 @@ export default function Data() {
           </span>
         </h2>
         <hr/>
+        <div className="marcas">
+          <div>
+            <hr/>
+            <h2><span className="lnr lnr-arrow-right"></span> TEALIUM</h2>
+            <hr/>
+            <h3>URL: https://tealium.com/</h3>
+            <h4>Unify your data</h4>
+            <p>Connected organizations know their customers, identify untapped opportunities, and deliver incredible customer experiences.</p>
+            <h4>Customer Data Hub</h4>
+            <p>Unite your tools and teams with universally-accessible, real-time customer data.</p>
+          </div>
+          <div>
+            <hr/>
+          </div>
+        </div>
       </div>
     </Layout>
   )
