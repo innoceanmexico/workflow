@@ -133,6 +133,10 @@ p {
   justify-content: space-around;
 }
 
+.marcas div {
+  width: 100%;
+}
+
 .bi.bi-diagram {
   background: #fff;
   box-shadow: none;
