@@ -147,3 +147,11 @@ p {
   background-color: #f0582a;
   color: #ffffff;
 }
+
+.proceso .lnr.lnr-arrow-left, .tools .lnr.lnr-arrow-left {
+  background:  #f0582a;
+  color: #fff;
+  padding: 10px;
+  font-weight: bold;
+  cursor: pointer;
+}
