@@ -2,7 +2,7 @@ import Link from 'next/link'
 import logo from '../components/logo'
 import Layout from '../components/layout'
 
-export default function Proyectos() {
+export default function Data() {
   return (
     <Layout>
       <div className="proceso">
@@ -13,7 +13,7 @@ export default function Proyectos() {
         {logo}
         <h2>
           <span>
-            <span style={{color: '#f0582a'}}>[</span> DIGITAL DEVELOPMENT PROYECTOS<span style={{color: '#f0582a'}}>]</span>
+            <span style={{color: '#f0582a'}}>[</span> ANÁLISIS DE DATOS<span style={{color: '#f0582a'}}>]</span>
           </span>
         </h2>
         <hr/>

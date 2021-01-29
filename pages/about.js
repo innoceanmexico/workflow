@@ -19,19 +19,19 @@ export default function About() {
           <Link href="/" as={process.env.BACKEND_URL + '/'}>
             <a><span className="lnr lnr-plus-circle"></span> INICIO</a>
           </Link>
-          <Link href="/proceso" as={process.env.BACKEND_URL + '/'}>
+          <Link href="/proceso" as={process.env.BACKEND_URL + '/proceso'}>
             <a><span className="lnr lnr-plus-circle"></span> DESARROLLO</a>
           </Link>
-          <Link href="/tools" as={process.env.BACKEND_URL + '/'}>
-            <a><span className="lnr lnr-plus-circle"></span> TOOLS</a>
+          <Link href="/tools" as={process.env.BACKEND_URL + '/tools'}>
+            <a><span className="lnr lnr-plus-circle"></span> HERRAMIENTAS</a>
           </Link>
-          <Link href="/" as={process.env.BACKEND_URL + '/'}>
+          <Link href="/proyectos" as={process.env.BACKEND_URL + '/proyectos'}>
             <a><span className="lnr lnr-plus-circle"></span> PROYECTOS</a>
           </Link>
-          <Link href="/" as={process.env.BACKEND_URL + '/'}>
-            <a><span className="lnr lnr-plus-circle"></span> DATA</a>
+          <Link href="/data" as={process.env.BACKEND_URL + '/data'}>
+            <a><span className="lnr lnr-plus-circle"></span> DATA ANÁLISIS</a>
           </Link>
-          <Link href="/" as={process.env.BACKEND_URL + '/'}>
+          <Link href="/flujos" as={process.env.BACKEND_URL + '/flujos'}>
             <a><span className="lnr lnr-plus-circle"></span> FLUJOS</a>
           </Link>
         </div>

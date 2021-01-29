@@ -10,6 +10,7 @@ export default function Proceso() {
           <span class="lnr lnr-arrow-left"></span>
         </Link>
         <hr/>
+        {logo}
         <h2>
           <span>
             <span style={{color: '#f0582a'}}>[</span> PROPUESTA DE PROCESO DE DESARROLLO - DIGITAL DEVELOPMENT <span style={{color: '#f0582a'}}>]</span>
