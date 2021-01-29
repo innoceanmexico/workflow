@@ -7,7 +7,7 @@ export default function Proyectos() {
     <Layout>
       <div className="proceso">
         <Link href="/about" as={process.env.BACKEND_URL + '/about'}>
-          <span class="lnr lnr-arrow-left"></span>
+          <span className="lnr lnr-arrow-left"></span>
         </Link>
         <hr/>
         {logo}
@@ -17,6 +17,17 @@ export default function Proyectos() {
           </span>
         </h2>
         <hr/>
+        <div className="marcas">
+          <div>
+            <h2>KIA</h2>
+            <h3>URL: https://www.kia.com/</h3>
+            <h3>URL: https://www.kia.com.mx/</h3>
+          </div>
+          <div>
+            <h2>HYUNDAI</h2>
+            <h3>URL: https://www.hyundai.com.mx/</h3>
+          </div>
+        </div>
       </div>
     </Layout>
   )
