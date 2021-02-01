@@ -19,6 +19,9 @@ export default function Proyectos() {
         <hr/>
         <div className="marcas">
           <div>
+            <div align="center">
+              <img src="images/logo-kia.jpg" alt="" title="" />
+            </div>
             <hr/>
             <h2><span className="lnr lnr-arrow-right"></span> KIA</h2>
             <hr/>
@@ -26,6 +29,9 @@ export default function Proyectos() {
             <h3>URL: https://www.kia.com.mx/</h3>
           </div>
           <div>
+            <div align="center">
+              <img src="images/logo-hyundai.jpg" alt="" title="" />
+            </div>
             <hr/>
             <h2><span className="lnr lnr-arrow-right"></span> HYUNDAI</h2>
             <hr/>
@@ -34,6 +40,9 @@ export default function Proyectos() {
         </div>
         <div className="marcas">
           <div>
+            <div align="center">
+              <img src="images/logo-comex.jpg" alt="" title="" />
+            </div>
             <hr/>
             <h2><span className="lnr lnr-arrow-right"></span> COMEX</h2>
             <hr/>
@@ -41,6 +50,9 @@ export default function Proyectos() {
             <h3>URL: https://www.kia.com.mx/</h3>
           </div>
           <div>
+            <div align="center">
+              <img src="images/logo-cinsa.jpg" alt="" title="" />
+            </div>
             <hr/>
             <h2><span className="lnr lnr-arrow-right"></span> CINSA</h2>
             <hr/>
