@@ -26,6 +26,7 @@ export default function Proyectos() {
             <h2><span className="lnr lnr-arrow-right"></span> KIA</h2>
             <hr/>
             <h3>URL: https://www.kia.com/</h3>
+            <h3>URL: https://www.apartatukia.com/</h3>
             <h3>URL: https://www.kia.com.mx/</h3>
           </div>
           <div>
@@ -47,6 +48,7 @@ export default function Proyectos() {
             <h2><span className="lnr lnr-arrow-right"></span> COMEX</h2>
             <hr/>
             <h3>URL: https://www.kia.com/</h3>
+            
             <h3>URL: https://www.kia.com.mx/</h3>
           </div>
           <div>
