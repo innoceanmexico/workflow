@@ -13,7 +13,7 @@ export default function Proyectos() {
         {logo}
         <h2>
           <span>
-            <span style={{color: '#f0582a'}}>[</span> DIGITAL DEVELOPMENT - PROYECTOS INNOCEAN<span style={{color: '#f0582a'}}>]</span>
+            <span style={{color: '#f0582a'}}>[</span> DIGITAL DEVELOPMENT - PROYECTOS INNOCEAN MÉXICO<span style={{color: '#f0582a'}}>]</span>
           </span>
         </h2>
         <hr/>
