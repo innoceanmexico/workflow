@@ -13,7 +13,7 @@ export default function Proyectos() {
         {logo}
         <h2>
           <span>
-            <span style={{color: '#f0582a'}}>[</span> DIGITAL DEVELOPMENT PROYECTOS<span style={{color: '#f0582a'}}>]</span>
+            <span style={{color: '#f0582a'}}>[</span> DIGITAL DEVELOPMENT - PROYECTOS INNOCEAN<span style={{color: '#f0582a'}}>]</span>
           </span>
         </h2>
         <hr/>
@@ -28,6 +28,9 @@ export default function Proyectos() {
             <h3>URL: https://www.kia.com/</h3>
             <h3>URL: https://www.apartatukia.com/</h3>
             <h3>URL: https://www.kia.com.mx/</h3>
+            <hr/>
+            <h3><span class="lnr lnr-chevron-right"></span> CHATBOX</h3>
+            <hr/>
           </div>
           <div>
             <div align="center">
