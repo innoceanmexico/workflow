@@ -22,8 +22,8 @@ export default function Proyectos() {
             <div className="col-md-3">
               <div className="card">
                 <img src="images/logo-kia.jpg" class="card-img-top" alt="INNOCEAN MÉXICO" title="INNOCEAN MÉXICO" />
-                <div class="card-body">
-                  <h2 class="card-title">KIA</h2>
+                <div className="card-body">
+                  <h2 className="card-title">KIA</h2>
                   <hr/>
                   <h4>LINKS</h4>
                   <p>https://www.kia.com/</p>
@@ -37,8 +37,8 @@ export default function Proyectos() {
             <div className="col-md-3">
               <div className="card">
                 <img src="images/logo-hyundai.jpg" alt="INNOCEAN MÉXICO" title="INNOCEAN MÉXICO" />
-                <div class="card-body">
-                  <h2 class="card-title">HYUNDAI</h2>
+                <div className="card-body">
+                  <h2 className="card-title">HYUNDAI</h2>
                   <hr/>
                   <h4>LINKS</h4>
                   <p>https://www.hyundai.com.mx/</p>
@@ -52,8 +52,8 @@ export default function Proyectos() {
             <div className="col-md-3">
               <div className="card">
                 <img src="images/logo-cinsa.jpg" alt="INNOCEAN MÉXICO" title="INNOCEAN MÉXICO" />
-                <div class="card-body">
-                  <h2 class="card-title">CINSA</h2>
+                <div className="card-body">
+                  <h2 className="card-title">CINSA</h2>
                   <hr/>
                   <h4>LINKS</h4>
                   <p>https://www.cinsa.com.mx/</p>
@@ -65,8 +65,8 @@ export default function Proyectos() {
             <div className="col-md-3">
               <div className="card">
                 <img src="images/logo-santaanita_negro.png" className="img-fluid" alt="INNOCEAN MÉXICO" title="INNOCEAN MÉXICO" style={{width: '200px', margin: '0 auto'}} />
-                <div class="card-body">
-                  <h2 class="card-title">SANTA ANITA</h2>
+                <div className="card-body">
+                  <h2 className="card-title">SANTA ANITA</h2>
                   <hr/>
                   <h4>LINKS</h4>
                   <p>http://www.santaanita.com.mx/</p>
