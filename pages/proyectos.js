@@ -9,76 +9,75 @@ export default function Proyectos() {
         <Link href="/about" as={process.env.BACKEND_URL + '/about'}>
           <span className="lnr lnr-arrow-left"></span>
         </Link>
-        <hr/>
+        <hr />
         {logo}
         <h2>
           <span>
-            <span style={{color: '#f0582a'}}>[</span> DIGITAL DEVELOPMENT - PROYECTOS INNOCEAN MÉXICO<span style={{color: '#f0582a'}}>]</span>
+            <span style={{ color: '#f0582a' }}>[</span> DIGITAL DEVELOPMENT - PROYECTOS INNOCEAN MÉXICO<span style={{ color: '#f0582a' }}>]</span>
           </span>
         </h2>
-        <hr/>
-        <div className="marcas">
-          <div>
-            <div align="center">
-              <img src="images/logo-kia.jpg" alt="" title="" />
+        <hr />
+        <div className="container-fluid">
+          <div className="row">
+            <div className="col-md-3">
+              <div className="card">
+                <img src="images/logo-kia.jpg" class="card-img-top" alt="INNOCEAN MÉXICO" title="INNOCEAN MÉXICO" />
+                <div class="card-body">
+                  <h2 class="card-title">KIA</h2>
+                  <hr/>
+                  <h4>LINKS</h4>
+                  <p>https://www.kia.com/</p>
+                  <p>https://www.apartatukia.com/</p>
+                  <p>https://www.kia.com.mx/</p>
+                  <h4>APPS</h4>
+                  <p>CHATBOX</p>
+                </div>
+              </div>
             </div>
-            <hr/>
-            <h2><span className="lnr lnr-arrow-right"></span> KIA</h2>
-            <hr/>
-            <h3>URL: https://www.kia.com/</h3>
-            <h3>URL: https://www.apartatukia.com/</h3>
-            <h3>URL: https://www.kia.com.mx/</h3>
-            <hr/>
-            <h3><span class="lnr lnr-chevron-right"></span> CHATBOX</h3>
-            <hr/>
-          </div>
-          <div>
-            <div align="center">
-              <img src="images/logo-hyundai.jpg" alt="" title="" />
+            <div className="col-md-3">
+              <div className="card">
+                <img src="images/logo-hyundai.jpg" alt="INNOCEAN MÉXICO" title="INNOCEAN MÉXICO" />
+                <div class="card-body">
+                  <h2 class="card-title">HYUNDAI</h2>
+                  <hr/>
+                  <h4>LINKS</h4>
+                  <p>https://www.hyundai.com.mx/</p>
+                  <h4>SERVICES</h4>
+                  <p>BACKEND</p>
+                  <p>ADOBE SCOPE</p>
+                  <p>IWN & APLIC</p>
+                </div>
+              </div>
             </div>
-            <hr/>
-            <h2><span className="lnr lnr-arrow-right"></span> HYUNDAI</h2>
-            <hr/>
-            <h3>URL: https://www.hyundai.com.mx/</h3>
-          </div>
-        </div>
-        <div className="marcas">
-          <div>
-            <div align="center">
-              <img src="images/logo-comex.jpg" alt="" title="" />
+            <div className="col-md-3">
+              <div className="card">
+                <img src="images/logo-cinsa.jpg" alt="INNOCEAN MÉXICO" title="INNOCEAN MÉXICO" />
+                <div class="card-body">
+                  <h2 class="card-title">CINSA</h2>
+                  <hr/>
+                  <h4>LINKS</h4>
+                  <p>https://www.cinsa.com.mx/</p>
+                  <h4>SERVICES</h4>
+                  <p>UX / UI</p>
+                </div>
+              </div>
             </div>
-            <hr/>
-            <h2><span className="lnr lnr-arrow-right"></span> COMEX</h2>
-            <hr/>
-            <h3>URL: https://www.kia.com/</h3>
-            
-            <h3>URL: https://www.kia.com.mx/</h3>
-          </div>
-          <div>
-            <div align="center">
-              <img src="images/logo-cinsa.jpg" alt="" title="" />
+            <div className="col-md-3">
+              <div className="card">
+                <img src="images/logo-santaanita_negro.png" className="img-fluid" alt="INNOCEAN MÉXICO" title="INNOCEAN MÉXICO" style={{width: '200px', margin: '0 auto'}} />
+                <div class="card-body">
+                  <h2 class="card-title">SANTA ANITA</h2>
+                  <hr/>
+                  <h4>LINKS</h4>
+                  <p>http://www.santaanita.com.mx/</p>
+                  <h4>SERVICES</h4>
+                  <p>UX / UI</p>
+                  <p>DESARROLLO / PROPUESTA</p>
+                </div>
+              </div>
             </div>
-            <hr/>
-            <h2><span className="lnr lnr-arrow-right"></span> CINSA</h2>
-            <hr/>
-            <h3>URL: https://www.hyundai.com.mx/</h3>
           </div>
-        </div>
-        <div className="marcas">
-          <div>
-            <hr/>
-            <h2><span className="lnr lnr-arrow-right"></span> SANTA ANITA</h2>
-            <hr/>
-            <h3>URL: https://www.kia.com/</h3>
-            <h3>URL: https://www.kia.com.mx/</h3>
-          </div>
-          <div>
-            <hr/>
-            <h2><span className="lnr lnr-arrow-right"></span> AD HOC PROJECTS</h2>
-            <hr/>
-            <h3>URL: https://www.kia.com/</h3>
-            <h3>URL: https://www.kia.com.mx/</h3>
-          </div>
+          
         </div>
       </div>
     </Layout>
