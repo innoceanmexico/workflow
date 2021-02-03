@@ -77,7 +77,6 @@ export default function Proyectos() {
               </div>
             </div>
           </div>
-          
         </div>
       </div>
     </Layout>
