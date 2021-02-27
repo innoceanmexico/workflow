@@ -17,7 +17,7 @@ export default function About() {
         </div>
         <div className="links">
           <Link href="/" as={process.env.BACKEND_URL + '/'}>
-            <a><span className="lnr lnr-plus-circle"></span> INICIO</a>
+            <a><span className="lnr lnr-plus-circle"></span> HOME</a>
           </Link>
           <Link href="/proyectos" as={process.env.BACKEND_URL + '/proyectos'}>
             <a><span className="lnr lnr-plus-circle"></span> PROYECTOS</a>
